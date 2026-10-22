@@ -15,3 +15,16 @@ Expected Result
 The computer should connect to the internet. If the problem continues, record the error and escalate it to the IT support team.
 Project Notes
 This guide is for learning and documenting basic IT support troubleshooting.
+Testing and Results
+Test 1: Check Network Configuration
+• Command: ipconfig
+• Purpose: To view the computer’s IP address and network configuration.
+• Expected Result: The command displays the available network adapters and their configuration.
+Test 2: Test Network Connectivity
+• Command: ping 8.8.8.8
+• Purpose: To check whether the computer can reach an external IP address.
+• Expected Result: Successful replies indicate connectivity to the destination. Timeouts may indicate a connectivity issue or blocked traffic.
+Test Status
+• ☐ Run the tests on a Windows computer.
+• ☐ Record the actual results.
+• ☐ Add screenshots of the command output.
