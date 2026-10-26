@@ -24,6 +24,7 @@ Test 2: Test Network Connectivity
 • Command: ping 8.8.8.8
 • Purpose: To check whether the computer can reach an external IP address.
 • Expected Result: Successful replies indicate connectivity to the destination. Timeouts may indicate a connectivity issue or blocked traffic.
+Actual Result: Received replies from 8.8.8.8.
 Test Status
 • ☐ Run the tests on a Windows computer.
 • ☐ Record the actual results.
